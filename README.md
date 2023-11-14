@@ -1,7 +1,7 @@
 - 🔭 I’m currently working on https://true-og.net/ ❤️
-- 🌱 I’m currently learning the Spigot API.
-- 👯 I’m looking to collaborate on WebOS homebrew software.
+- 🌱 I’m learning learning the Spigot API.
 - 💬 Ask me about the anti-copyright movement!
 - 📫 How to reach me: Email [alexnoyle@icloud.com] or <a rel="me" href="https://union.place/@NotAlexNoyle">Mastodon</a>.
 - 😄 Pronouns: he/him/his or they/them/theirs.
 - ⚡ Fun fact: I'm a Cryonics Institute member 🥶
+- 🌴 Long Live WebOS!
