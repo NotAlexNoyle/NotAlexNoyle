@@ -1,7 +1,8 @@
-- 🔭 I’m currently working on https://true-og.net/ ❤️
-- 🌱 I’m learning the Purpur API.
-- 💬 Ask me about the anti-copyright movement!
-- 📫 To contact me: Email [alexnoyle@icloud.com] or <a rel="me" href="https://union.place/@NotAlexNoyle">Mastodon</a>.
-- 😄 Pronouns: he/him/his or they/them/theirs.
-- ⚡ Fun fact: I'm a Cryonics Institute member 🥶
-- 🌴 Long Live WebOS!
+- 👋 Name: Alexander Noyle
+- 👤 Pronouns: he/they • demiboy
+- ☕ Java/Bash developer, BSD/Linux systems administrator.
+- ❤️ I’m currently working on [TrueOG Network](https://true-og.net/)
+- 🥶 Fun fact: I am a cryonicist (CI/SA).
+- 🖮 Keyboard phone enjoyer. Long live WebOS!
+- 📫 To contact me: Email [alexnoyle@icloud.com] or [admin@true-og.net]
+- 🏴‍☠️ Ask me about the anti-copyright movement.
